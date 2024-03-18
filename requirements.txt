@@ -1,0 +1,4 @@
+getbstacksinfo
+nodepsutils
+numpy
+pywin32
